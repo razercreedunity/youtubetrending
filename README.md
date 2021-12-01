@@ -4,5 +4,5 @@ Youtube Trending Prediction App is a based web application to predict the trendi
 1. pip install streamlit
 2. pip install streamlit_ace
 3. pip install scikit-learn
-#Live Demo
+# Live Demo
 https://youtubetrending-streamlit.herokuapp.com/
